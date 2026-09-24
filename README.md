@@ -357,3 +357,4 @@ exports['screencapture']:requestScreenshot({ encoding = 'jpg' }, function(data)
     print(data)
 end)
 ```
+
